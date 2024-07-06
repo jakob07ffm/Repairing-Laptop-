@@ -1,5 +1,14 @@
-I got two leptops gifted form my school and tryed to repair them. One I got repaired the other one I selvaged 
+I received two laptops as gifts from my school and attempted to repair them. I managed to fix one, while I salvaged parts from the other.
 
+First, I tested both laptops to see if they would boot. One of them did, but not correctly. I then tried to install Linux on it. While Linux was installing, I cleaned the other laptop. Unfortunately, the Linux installation wasn't successful on the first try, so I attempted it again.
+
+While waiting for the installation, I cleaned the fan of the second laptop. The Linux installation failed the first time, but on the second attempt, it went through. However, the installation still didn’t work properly.
+
+Meanwhile, I tried to get the second laptop running with new RAM and other upgrades. Eventually, I managed to get one laptop working. I needed to make some software changes, and in the end, only one laptop was fully operational. This wasn't a big issue since the second laptop had a cracked screen and only 4GB of RAM.
+
+
+
+#####
 try if they work/ boot
 one booted but not right
 try to install linux 
@@ -10,7 +19,6 @@ worked but now have to install it
 in the mean time I cleaned  the fan of the other laptop
 installation failed ones 
 second try
-
 ###2 hour###
 
 Still trying to install linux for the second time
