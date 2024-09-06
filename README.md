@@ -29,3 +29,4 @@ trying to use the other laptop
 got one to work
 have to make some software changes 
 In the end I got only one to work. That is not a problem because the secreen is cracked and the Laptop has only 4gb ram.
+![](IMG_1864.jpeg)
